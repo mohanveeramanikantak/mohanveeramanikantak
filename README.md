@@ -1,6 +1,6 @@
 ## 🌟 Hi there, I'm Mohan Veera Manikanta Kalepu! 👋
 
-- 🎓 **Undergraduate** @ KIET (Class of 2027) majoring in **Computer Science and Engineering** with a focus on **Artificial Intelligence**.
+- 🎓 **Undergraduate** @KIET'27 majoring in **Computer Science and Engineering** with a focus on **Artificial Intelligence**.
 - 💻 **Aspiring Full-Stack Developer** with a passion for building scalable web solutions and innovating with AI.
 - 💼 Currently an **Intern** at **IIIT Hyderabad**, diving deep into the world of technology and research.
 - 🌱 **Learning Journey**: Committed to a 100-day coding challenge, mastering C++, Java, and Python.
