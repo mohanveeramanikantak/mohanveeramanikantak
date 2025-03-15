@@ -8,7 +8,7 @@ Think low-level, Code high-level
 - 🎭 Fun fact: I love coding and problem-solving!
 - 📧 You can mail me here  mvmanikanta98851@gmail.com
 
-  ## 📢 Connect with Me: 
+- ## 📢 Connect with Me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanveeramanikantak)
