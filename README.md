@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Mohan Veera Manikanta Kalepu
             
-Think low-level, Code high-level
+Think low-level, Code high-level 
 
 # 🛠 About Me:
 
