@@ -6,7 +6,7 @@ Think low-level, Code high-level
 
 - 🎓 **Undergraduate** @KIET'27 majoring in **Computer Science and Engineering** with a focus on **Artificial Intelligence**.
 - 🎭 Fun fact: I love coding and problem-solving!
-- 📧 You can mail me here  mvmanikanta98851@gmail.com
+- 📧 You can mail me here  mvmanikanta98851@gmail.com 
 
 - ## 📢 Connect with Me: 
 
