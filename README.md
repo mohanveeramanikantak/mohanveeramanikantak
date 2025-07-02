@@ -4,7 +4,6 @@
 [![Portfolio ](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=Port&logoColor=Black)](https://mohanveeramanikantak.github.io/Portfolio.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohanveeramanikantak)
-[![W3Schools](https://img.shields.io/badge/W3Schools-08D665?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3schools.com/mohank21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohans_Leetcode/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Mohank2125)
 
