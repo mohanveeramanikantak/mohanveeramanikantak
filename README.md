@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
 <p align="center"><i>Think in logic, build with abstraction.</i></p>
 
-<img src="https://iconscout.com/illustration/young-man-using-laptop-while-giving-thumbs-up-8568084_6884238" align="right" width="300" alt="Coding from home illustration"/>
+<img src="https://iconscout.com/3d-illustration/man-working-on-laptop-6247921_5120148" align="right" width="300" alt="Coding from home illustration"/>
 
 
 ```js
