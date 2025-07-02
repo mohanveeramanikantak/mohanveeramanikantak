@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
 <p align="center"><i>Think in logic, build with abstraction.</i></p>
 
-<img src="https://www.shutterstock.com/video/clip-3462686083-animation-data-processing-over-digital-human-icons" align="right" width="300" alt="Coding illustration from unDraw"/>
+<img src="https://assets-v2.lottiefiles.com/a/b4a629ce-116f-11ee-853d-0b915a1cc83a/VVSMcYpHpv.gif" align="right" width="300" alt="Coding illustration from unDraw"/>
 
 
 ```js
