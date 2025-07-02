@@ -1,13 +1,14 @@
-<h1 align="center">Hi, I'm Mohan Veera Manikanta Kalepu! 👋</h1>
-<p align="center"><i>Think low-level, Code high-level</i></p>
+<h1 align="center">Hi, I'm Mohan! 👋</h1>
+<p align="center"><i>Think in logic, build with abstraction.</i></p>
 
-<img src="https://raw.githubusercontent.com/saiharsha3777/saiharsha3777/main/images/codingFromHome.svg" align="right" width="300"/>
+<img src="YOUR_IMAGE_URL.svg" align="right" width="300" alt="Coding from home illustration"/>
+
 
 ```js
 const mohan = {
   pronouns: "He" | "Him",
   role: "Undergraduate @KIET'27 | CSE (AI)",
-  quote: "Think low-level, Code high-level",
+  quote: "Think in logic, build with abstraction.",
   contact: {
     email: "mvmanikanta98851@gmail.com",
   },
