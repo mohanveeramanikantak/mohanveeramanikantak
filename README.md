@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
-<p align="center"><i>Think in logic, build with abstraction.</i></p>
+<h1 align="right">Hi, I'm Mohan Veera! 👋</h1>
+<p align="right"><i>Think in logic, build with abstraction.</i></p>
 
 [![Portfolio ](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=Port&logoColor=Black)](https://mohanveeramanikantak.github.io/Portfolio.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a)
