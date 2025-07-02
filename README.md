@@ -3,7 +3,6 @@
 
 <img src="https://assets-v2.lottiefiles.com/a/b4a629ce-116f-11ee-853d-0b915a1cc83a/VVSMcYpHpv.gif" align="right" width="300" alt="Coding illustration from unDraw"/>
 
-
 ```js
 const mohan = {
   pronouns: "He" | "Him",
