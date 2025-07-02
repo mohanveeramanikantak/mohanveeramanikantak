@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohan! 👋</h1>
+<h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
 <p align="center"><i>Think in logic, build with abstraction.</i></p>
 
 <img src="YOUR_IMAGE_URL.svg" align="right" width="300" alt="Coding from home illustration"/>
