@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
 <p align="center"><i>Think in logic, build with abstraction.</i></p>
 
-<img src="https://images.unsplash.com/photo-1581090700227-1e8e4b4f5e04?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60" align="right" width="320" alt="AI illustration" />
+<img src="https://www.shutterstock.com/image-photo/robot-hand-on-virtual-screen-600nw-2411813921.jpg" align="right" width="300" alt="Coding illustration from unDraw"/>
+
 
 ```js
 const mohan = {
