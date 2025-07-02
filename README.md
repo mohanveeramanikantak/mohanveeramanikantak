@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Mohan Veera! 👋</h1>
 <p align="center"><i>Think in logic, build with abstraction.</i></p>
 
-<img src="https://undraw.dev/assets/illustrations/undraw_programming_re_kg9v.svg" align="right" width="300" alt="Coding from home illustration"/>
+<img src="https://undraw.co/illustrations/coding_joxb.svg" align="right" width="300" alt="Coding illustration from unDraw"/>
+
 
 ```js
 const mohan = {
