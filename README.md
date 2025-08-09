@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Mohan Veera! 👋</h1> 
+<h1 align="left">Hi, I'm Mohan Veera! 👋</h1>
 <p align="left"><i>Think in logic, build with abstraction.</i></p>
 
 [![Portfolio ](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=Port&logoColor=Black)](https://mohanveeramanikantak.github.io/Portfolio.io/)
