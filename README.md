@@ -14,7 +14,7 @@
 ```js
 const mohan = {
   pronouns: "He" | "Him",
-  role: "Undergraduate @KIET'27 | CSE (AI)",
+  role: "Junior Developer @ K-Hub | Undergraduate @ KIET '27 | CSE (AI)",
   quote: "Think in logic, build with abstraction.",
   contact: {
     email: "mvmanikanta98851@gmail.com",
@@ -30,10 +30,29 @@ const mohan = {
   technologies: {
     known: ["HTML", "CSS", "JavaScript", "Java", "C++"],
     learning: ["React", "Redux", "Node.js", "Docker"],
+    tools: ["Git", "VS Code", "Postman", "Linux"],
   },
   interests: {
-    fields: ["Artificial Intelligence", "Problem Solving", "Web Development"],
-    funFact: "I love coding and problem-solving!",
-    mission: "Exploring the future of AI for meaningful impact.",
+    fields: ["Artificial Intelligence", "Problem Solving", "Web Development", "Open Source"],
+    funFact: "I love coding, problem-solving, and contributing to real-world projects!",
+    mission: "Exploring the future of AI and software development for meaningful impact.",
   },
+  experience: [
+    {
+      role: "Junior Developer",
+      company: "K-Hub",
+      duration: "Aug 2025 - Present",
+      responsibilities: [
+        "Developing web applications using React and Node.js",
+        "Collaborating with team members on project tasks and code reviews",
+        "Contributing to open-source projects and team initiatives",
+      ],
+    },
+    {
+      role: "Undergraduate Student",
+      institute: "Kakinada Institute of Engineering and Technology (KIET)",
+      duration: "2023 - 2027",
+      major: "Computer Science and Engineering (Artificial Intelligence)",
+    },
+  ],
 };
