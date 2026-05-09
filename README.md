@@ -1,128 +1,103 @@
-<!-- 🔥 HERO SECTION -->
-
-<h1 align="center">Hi 👋, I'm Mohan Veera</h1>
-<h3 align="center">🚀 Developer • 🤖 AI Enthusiast • 📈 Marketing Strategist</h3>
+<h1 align="center">Mohan Veera Manikanta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Marketing+%26+Growth+Thinker;Building+Tech+that+Scales" />
+  AI Engineer • Full Stack Developer • Product Builder
+</p>
+
+<p align="center">
+  <a href="https://mohanveeramanikantak.github.io/Portfolio.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">LinkedIn</a> •
+  <a href="https://github.com/mohanveeramanikantak">GitHub</a> •
+  <a href="https://leetcode.com/u/Mohans_Leetcode/">LeetCode</a>
 </p>
 
 ---
 
-<!-- 🧠 CODING GIF -->
+## About Me
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="180"/>
+I’m a Computer Science (AI) student at KIET focused on building scalable software systems, AI-powered applications, and growth-oriented digital products.
 
-## 🧠 About Me
+My work combines:
 
-```js
-const mohan = {
-  role: "Junior Developer @ K-Hub | CSE (AI) @ KIET '27",
-  focus: "Tech + AI + Marketing + Scalable Systems",
+- Full Stack Engineering
+- AI & Intelligent Systems
+- Product Thinking
+- Marketing Strategy
 
-  mindset: [
-    "Think like an engineer",
-    "Build like a founder",
-    "Scale like a marketer"
-  ],
-
-  contact: {
-    email: "mvmanikanta98851@gmail.com"
-  }
-};
-```
-
-💡 I build **products**, not just projects — combining
-👉 Engineering + AI + Marketing for real-world impact
+I enjoy creating products that solve real-world problems instead of building tutorial-based projects.
 
 ---
 
-## 🔗 Connect With Me
+## Current Focus
+
+- AI + Web Applications
+- LLM-based Systems
+- Scalable Backend Architecture
+- DSA & Problem Solving
+- Product Growth and User Experience
+
+---
+
+## Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- C++
+- HTML/CSS
+
+### Frameworks & Tools
+- React
+- Node.js
+- Git & GitHub
+- Linux
+- Docker
+
+### Exploring
+- Machine Learning
+- NLP
+- Automation Systems
+- Advanced AI Workflows
+
+---
+
+## Featured Projects
+
+### Cross-Device AI Agent System
+AI-powered assistant ecosystem that works across mobile and desktop environments with automation and intelligent task execution.
+
+### Marketing Engine 365
+A public learning repository focused on marketing systems, branding, growth strategy, and real-world business concepts.
+
+### AI + Product Experiments
+Building practical AI tools integrating user experience, automation, and scalable architecture.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://mohanveeramanikantak.github.io/Portfolio.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/mohanveeramanikantak"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/Mohans_Leetcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://www.hackerrank.com/profile/Mohank2125"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 What I Do
+## Philosophy
 
-💻 **Development**
-
-* Full Stack Web Development
-* DSA & Problem Solving
-* Real-world project building
-
-🤖 **AI / ML**
-
-* Machine Learning & NLP exploration
-* Intelligent systems & automation
-
-📈 **Marketing Edge (Unique 🚀)**
-
-* Growth strategy & user behavior
-* Product thinking & conversion mindset
-* Tech + marketing integration
+> Build useful systems.  
+> Learn deeply.  
+> Ship consistently.  
+> Improve every iteration.
 
 ---
 
-## 💻 Tech Stack
+## Connect
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,react,nodejs,git,linux,docker" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 My Edge
-
-🚀 I think beyond coding:
-
-* 📊 Data-driven development
-* 📣 Marketing-focused product building
-* 🎯 Real-world impact mindset
-
----
-
-## 🎯 Current Focus
-
-* 🔥 AI + Web Projects
-* 📈 Growth-driven product building
-* ⚡ DSA mastery
-* 🧠 Learning LLMs & advanced systems
-
----
-
-## 🤝 Let's Collaborate
-
-💡 Open to:
-
-* AI / ML Projects
-* Web Development
-* Startup Ideas
-* Tech + Marketing innovations
-
----
-
-## 🎯 Philosophy
-
-💡 *Curiosity → Logic → Code → Growth → Impact*
-
-🔥 *Build. Scale. Repeat.*
+- Portfolio: https://mohanveeramanikantak.github.io/Portfolio.io/
+- LinkedIn: https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a
+- Email: mvmanikanta98851@gmail.com
