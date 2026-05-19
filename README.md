@@ -1,103 +1,158 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Mohan Veera Manikanta</h1>
 
 <p align="center">
-  AI Engineer • Full Stack Developer • Product Builder
+  <strong>AI Engineer • Full Stack Developer • Product Builder</strong>
 </p>
 
 <p align="center">
-  <a href="https://mohanveeramanikantak.github.io/Portfolio.io/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">LinkedIn</a> •
-  <a href="https://github.com/mohanveeramanikantak">GitHub</a> •
-  <a href="https://leetcode.com/u/Mohans_Leetcode/">LeetCode</a>
+  Building scalable AI systems, intelligent applications, and growth-focused digital products.
+</p>
+
+<p align="center">
+  <a href="https://mohanveeramanikantak.github.io/Portfolio.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/mohanveeramanikantak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Mohans_Leetcode/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+# About
 
-I’m a Computer Science (AI) student at KIET focused on building scalable software systems, AI-powered applications, and growth-oriented digital products.
+```js
+const mohan = {
+  education: "CSE (AI) @ KIET",
+  
+  interests: [
+    "Artificial Intelligence",
+    "Scalable Systems",
+    "Full Stack Development",
+    "Product Engineering",
+    "Growth Strategy"
+  ],
 
-My work combines:
+  currentlyBuilding: [
+    "AI-powered applications",
+    "Automation systems",
+    "Cross-platform intelligent tools"
+  ],
 
-- Full Stack Engineering
-- AI & Intelligent Systems
-- Product Thinking
-- Marketing Strategy
+  currentlyLearning: [
+    "LLMs",
+    "System Design",
+    "Advanced Backend Architecture"
+  ]
+};
+```
 
-I enjoy creating products that solve real-world problems instead of building tutorial-based projects.
+I focus on building practical systems that combine engineering, AI, and product thinking to solve real-world problems.
 
 ---
 
-## Current Focus
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,cpp,html,css,react,nodejs,express,mongodb,git,github,linux,docker,vscode&perline=7" />
+
+</p>
+
+---
+
+# Current Focus
 
 - AI + Web Applications
 - LLM-based Systems
-- Scalable Backend Architecture
+- Scalable Backend Engineering
 - DSA & Problem Solving
-- Product Growth and User Experience
+- Product Development
+- Automation & Intelligent Workflows
 
 ---
 
-## Tech Stack
+# Featured Projects
 
-### Languages
-- Java
-- JavaScript
-- C++
-- HTML/CSS
+## Cross-Device AI Agent System
 
-### Frameworks & Tools
-- React
-- Node.js
-- Git & GitHub
-- Linux
-- Docker
+AI-powered ecosystem enabling intelligent automation across desktop and mobile platforms.
 
-### Exploring
-- Machine Learning
-- NLP
-- Automation Systems
-- Advanced AI Workflows
+### Core Features
+- AI task execution
+- Cross-device synchronization
+- Smart workflow automation
+- Intelligent assistant architecture
 
 ---
 
-## Featured Projects
+## Marketing Engine 365
 
-### Cross-Device AI Agent System
-AI-powered assistant ecosystem that works across mobile and desktop environments with automation and intelligent task execution.
-
-### Marketing Engine 365
-A public learning repository focused on marketing systems, branding, growth strategy, and real-world business concepts.
-
-### AI + Product Experiments
-Building practical AI tools integrating user experience, automation, and scalable architecture.
+A public repository documenting marketing systems, branding frameworks, growth strategy, and business learning.
 
 ---
 
-## GitHub Stats
+## AI + Product Experiments
+
+Building practical AI tools focused on:
+- user experience
+- automation
+- intelligent workflows
+- scalable architecture
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Philosophy
+# Philosophy
 
-> Build useful systems.  
-> Learn deeply.  
-> Ship consistently.  
-> Improve every iteration.
+```text
+Build useful systems.
+Learn deeply.
+Ship consistently.
+Improve every iteration.
+```
 
 ---
 
-## Connect
+# Connect
 
-- Portfolio: https://mohanveeramanikantak.github.io/Portfolio.io/
-- LinkedIn: https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a
-- Email: mvmanikanta98851@gmail.com
+<p align="center">
+
+<a href="mailto:mvmanikanta98851@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/kmohan1008">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+
+</p>
