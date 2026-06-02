@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Mohan Veera Manikanta</h1>
+<h1 align="center">Mohan Veera Manikanta</h1> 
 
 <p align="center">
   <strong>AI Engineer • Full Stack Developer • Product Builder</strong>
