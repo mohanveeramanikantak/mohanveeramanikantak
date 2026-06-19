@@ -1,158 +1,239 @@
-<!-- ========================= HEADER ========================= -->
+# 🚀 Mohan Veera Manikanta
 
-<h1 align="center">Mohan Veera Manikanta</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI Engineer • Full Stack Developer • Product Builder</strong>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Developer;AI+Agent+Builder;Product+Builder" />
 
-<p align="center">
-  Building scalable AI systems, intelligent applications, and growth-focused digital products.
-</p>
+### Building Intelligent Systems That Solve Real Problems
 
-<p align="center">
-  <a href="https://mohanveeramanikantak.github.io/Portfolio.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=mohanveeramanikantak&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-  <a href="https://github.com/mohanveeramanikantak">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Mohans_Leetcode/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# About
+## 👨‍💻 About Me
 
-```js
-const mohan = {
-  education: "CSE (AI) @ KIET",
-  
-  interests: [
-    "Artificial Intelligence",
-    "Scalable Systems",
-    "Full Stack Development",
-    "Product Engineering",
-    "Growth Strategy"
-  ],
+```python
+class Mohan:
 
-  currentlyBuilding: [
-    "AI-powered applications",
-    "Automation systems",
-    "Cross-platform intelligent tools"
-  ],
+    def __init__(self):
 
-  currentlyLearning: [
-    "LLMs",
-    "System Design",
-    "Advanced Backend Architecture"
-  ]
-};
+        self.role = [
+            "AI Engineer",
+            "Generative AI Developer",
+            "Full Stack Developer",
+            "Product Builder"
+        ]
+
+        self.education = "B.Tech CSE (Artificial Intelligence) @ KIET"
+
+        self.interests = [
+            "LLMs",
+            "AI Agents",
+            "RAG",
+            "Automation",
+            "System Design",
+            "Backend Engineering"
+        ]
+
+        self.current_focus = [
+            "AI Agent Workflows",
+            "Multi-Agent Systems",
+            "LLM Applications",
+            "Scalable Products"
+        ]
+
+    def philosophy(self):
+
+        return "Build → Ship → Learn → Repeat"
 ```
 
-I focus on building practical systems that combine engineering, AI, and product thinking to solve real-world problems.
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+**LLMs • RAG • LangChain • Gemini • OpenAI • Mistral • AI Agents**
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+
+</div>
 
 ---
 
-# Tech Stack
+# 🧠 Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,cpp,html,css,react,nodejs,express,mongodb,git,github,linux,docker,vscode&perline=7" />
-
-</p>
-
----
-
-# Current Focus
-
-- AI + Web Applications
-- LLM-based Systems
-- Scalable Backend Engineering
-- DSA & Problem Solving
-- Product Development
-- Automation & Intelligent Workflows
+* Advanced RAG Architectures
+* AI Agent Frameworks
+* Multi-Agent Systems
+* MCP (Model Context Protocol)
+* System Design
+* Cloud & MLOps
 
 ---
 
-# Featured Projects
+# 🔥 Featured Projects
 
-## Cross-Device AI Agent System
+## 🤖 Cross-Device AI Agent
 
 AI-powered ecosystem enabling intelligent automation across desktop and mobile platforms.
 
-### Core Features
-- AI task execution
-- Cross-device synchronization
-- Smart workflow automation
-- Intelligent assistant architecture
+### Features
+
+* Multi-device sync
+* AI task execution
+* Workflow automation
+* Voice assistant integration
+* Intelligent agent architecture
 
 ---
 
-## Marketing Engine 365
+## 🎓 KIET Admission AI Assistant
 
-A public repository documenting marketing systems, branding frameworks, growth strategy, and business learning.
+An AI-powered admission ecosystem for:
 
----
+* FAQ Chatbot
+* Voice Assistant
+* Admission Tracking
+* Student Analytics
+* Multi-user dashboards
+* Zone-wise Management
 
-## AI + Product Experiments
+**Stack**
 
-Building practical AI tools focused on:
-- user experience
-- automation
-- intelligent workflows
-- scalable architecture
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight&hide_border=true"/>
-</p>
+`Python` `Streamlit` `Gemini API`
+`RAG` `MongoDB`
+`React`
+`Node.js`
 
 ---
 
-# Philosophy
+## 📄 PDF RAG Chatbot
+
+Upload PDFs → Ask Questions → Get Contextual Answers
+
+### Features
+
+* PDF Parsing
+* Chunking
+* Embeddings
+* Vector Database
+* Gemini Integration
+* Conversational Memory
+
+---
+
+# 🏆 Achievements
+
+🏅 Top Team Lead – AI Cohort
+
+🏅 RCTS @ IIIT Hyderabad – Junior Developer
+
+🏅 K-Hub KIET – Senior Developer
+
+🏅 Microsoft Learn – 23 Badges + 5 Trophies
+
+🏅 Quantum Computing Virtual Internship
+
+🏅 2nd Place Hackathon Winner ₹15,000
+
+🏅 Solved 200+ DSA Problems
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohanveeramanikantak&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanveeramanikantak&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohanveeramanikantak&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanveeramanikantak&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://mohanveeramanikantak.github.io/Portfolio.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohanveeramanikantak">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:mvmanikanta98851@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Mohans_Leetcode/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Philosophy
 
 ```text
-Build useful systems.
-Learn deeply.
-Ship consistently.
-Improve every iteration.
+Learn Deeply.
+Build Useful Systems.
+Ship Consistently.
+Think Like an Engineer.
+Create Like a Founder.
 ```
 
 ---
 
-# Connect
+# 🚀 Vision
 
-<p align="center">
+> My goal is to build AI-powered products that transform education,
+> automation, and human productivity through intelligent systems.
 
-<a href="mailto:mvmanikanta98851@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/kmohan1008">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-
-</p>
+**Building the future — one AI Agent at a time.**
