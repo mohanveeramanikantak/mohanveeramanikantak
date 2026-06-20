@@ -1,4 +1,4 @@
-<center># 🚀 Mohan Veera Manikanta</center>
+# 🚀 Mohan Veera Manikanta
 
 <div align="center">
 
